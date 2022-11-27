@@ -2,8 +2,10 @@
     <head>
         <title> Ejercicio de Introducción a HTML en OpenBootcamp </title>
         <body>
-            <!--Este es mi primer comentario de dos líneas-->
-            <!--Aprendiendo a documentar mi código con OpenBootcamp-->
+            <!--
+                  Este es mi primer comentario de dos líneas
+                  Aprendiendo a documentar mi código con OpenBootcamp
+                -->
             <div>
                 <h3> Mis videos favoritos de YT </h3>
                 <ul>
